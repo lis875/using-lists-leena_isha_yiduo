@@ -13,3 +13,9 @@ print(names)
 # print after 3rd append
 names.append("Yiduo")
 print(names)
+
+
+names.sort()
+
+# print after sorting
+print(names)
