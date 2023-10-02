@@ -20,3 +20,8 @@ names.sort()
 # print after sorting
 print(names)
 print(names[0])
+
+names.sort(reverse=True)
+
+# print after sorting
+print(names)
