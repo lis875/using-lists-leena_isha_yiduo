@@ -19,3 +19,4 @@ names.sort()
 
 # print after sorting
 print(names)
+print(names[0])
